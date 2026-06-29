@@ -1,4 +1,4 @@
-# 
+# Élite AI Quiz Generator plugins. Avec reconnaissance vocale et apprentissage par renforcement — optimisé pour des performances maximales.
 
 
 
